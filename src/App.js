@@ -1,10 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Navsection from './components/Navsection';
 
 function App() {
   return (
     <div className="App">
-     
+      <Navsection />
     </div>
   );
 }
